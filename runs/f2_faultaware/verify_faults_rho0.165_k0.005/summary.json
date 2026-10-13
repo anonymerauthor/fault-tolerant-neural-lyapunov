@@ -1,0 +1,68 @@
+{
+  "rho": 0.165,
+  "kappa": 0.005,
+  "limit": [
+    12.0,
+    12.0
+  ],
+  "faults": true,
+  "modes": [
+    {
+      "mode": 1,
+      "chunk": 11,
+      "variants": [
+        11,
+        12
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 6.764384822913218,
+      "max_time": 8.201338052749634
+    },
+    {
+      "mode": 1,
+      "chunk": 12,
+      "variants": [
+        12,
+        13
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 6.904526794144899,
+      "max_time": 8.217921018600464
+    },
+    {
+      "mode": 1,
+      "chunk": 13,
+      "variants": [
+        13,
+        14
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 6.991963549601625,
+      "max_time": 8.418116569519043
+    },
+    {
+      "mode": 1,
+      "chunk": 14,
+      "variants": [
+        14,
+        15
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 6.832446719790336,
+      "max_time": 8.18715500831604
+    }
+  ],
+  "all_verified": true
+}

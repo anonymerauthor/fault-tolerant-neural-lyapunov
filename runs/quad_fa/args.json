@@ -1,0 +1,18 @@
+{
+  "out": "runs/quad_fa",
+  "init": "external/Lyapunov_Stable_NN_Controllers/models/quadrotor2d_state_feedback.pth",
+  "nominal": false,
+  "rho": 0.5,
+  "kappa": 0.01,
+  "max_iter": 30,
+  "epochs": 50,
+  "samples_per_iter": 8192,
+  "buffer_size": 65536,
+  "batch_size": 1024,
+  "pgd_steps": 100,
+  "lr": 0.001,
+  "lr_controller": 0.0001,
+  "l1_reg": 0.001,
+  "train_V": false,
+  "seed": 42
+}

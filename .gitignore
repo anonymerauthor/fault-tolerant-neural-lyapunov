@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+external/
+results/logs/
+**/verify_*/mode*/
+**/specs/
+*.vnnlib
+*.vnnlib.compiled
+*.tar.gz
+.DS_Store
+.idea/
+.vscode/

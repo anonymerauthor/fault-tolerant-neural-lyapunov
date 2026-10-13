@@ -1,0 +1,26 @@
+{
+ "0": {
+  "variants": 178,
+  "nominal_certified": true,
+  "faults_certified": 177,
+  "faults_total": 177,
+  "unresolved": [],
+  "verifier_seconds": 11188.3
+ },
+ "1": {
+  "variants": 178,
+  "nominal_certified": true,
+  "faults_certified": 177,
+  "faults_total": 177,
+  "unresolved": [],
+  "verifier_seconds": 4739.9
+ },
+ "2": {
+  "variants": 178,
+  "nominal_certified": true,
+  "faults_certified": 177,
+  "faults_total": 177,
+  "unresolved": [],
+  "verifier_seconds": 8249.3
+ }
+}

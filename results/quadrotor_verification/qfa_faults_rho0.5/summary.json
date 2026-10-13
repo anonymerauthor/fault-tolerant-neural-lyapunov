@@ -1,0 +1,59 @@
+{
+  "ckpt": "runs/quad_fa/ckpt.pth",
+  "rho": 0.5,
+  "kappa": 0.0,
+  "chunks": [
+    {
+      "chunk": 0,
+      "variants": [
+        0,
+        15
+      ],
+      "regions": 12,
+      "safe": null,
+      "falsified": null,
+      "timeout": null,
+      "mean_time": null,
+      "max_time": null
+    },
+    {
+      "chunk": 1,
+      "variants": [
+        15,
+        30
+      ],
+      "regions": 12,
+      "safe": null,
+      "falsified": null,
+      "timeout": null,
+      "mean_time": null,
+      "max_time": null
+    },
+    {
+      "chunk": 2,
+      "variants": [
+        30,
+        45
+      ],
+      "regions": 12,
+      "safe": null,
+      "falsified": null,
+      "timeout": null,
+      "mean_time": null,
+      "max_time": null
+    },
+    {
+      "chunk": 3,
+      "variants": [
+        45,
+        60
+      ],
+      "regions": 12,
+      "safe": null,
+      "falsified": null,
+      "timeout": null,
+      "mean_time": null,
+      "max_time": null
+    }
+  ]
+}

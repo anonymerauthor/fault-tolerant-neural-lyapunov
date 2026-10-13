@@ -1,0 +1,20 @@
+{
+  "ckpt": "runs/quad_fa2/ckpt.pth",
+  "rho": 0.5,
+  "kappa": 0.0,
+  "chunks": [
+    {
+      "chunk": 0,
+      "variants": [
+        0,
+        1
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 113.76648690874754,
+      "max_time": 518.0046763420105
+    }
+  ]
+}

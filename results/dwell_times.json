@@ -1,0 +1,64 @@
+{
+ "run": "runs/f2c_kappa",
+ "rho": 0.165,
+ "kappa": 0.005,
+ "L_V": 0.2257590646218316,
+ "h": 0.004,
+ "margin": 0.0006385430620337165,
+ "pairs": [
+  {
+   "i": 0,
+   "k": 1,
+   "eps": 0.10645652562379837,
+   "T_steps": 88,
+   "T_sec": 4.4,
+   "observed_worst_steps": 16,
+   "observed_all_reached": true
+  },
+  {
+   "i": 0,
+   "k": 2,
+   "eps": 0.05049530789256096,
+   "T_steps": 237,
+   "T_sec": 11.850000000000001,
+   "observed_worst_steps": 44,
+   "observed_all_reached": true
+  },
+  {
+   "i": 1,
+   "k": 0,
+   "eps": 0.10822269320487976,
+   "T_steps": 85,
+   "T_sec": 4.25,
+   "observed_worst_steps": 15,
+   "observed_all_reached": true
+  },
+  {
+   "i": 1,
+   "k": 2,
+   "eps": 0.10645652562379837,
+   "T_steps": 88,
+   "T_sec": 4.4,
+   "observed_worst_steps": 15,
+   "observed_all_reached": true
+  },
+  {
+   "i": 2,
+   "k": 0,
+   "eps": 0.05334925651550293,
+   "T_steps": 226,
+   "T_sec": 11.3,
+   "observed_worst_steps": 28,
+   "observed_all_reached": true
+  },
+  {
+   "i": 2,
+   "k": 1,
+   "eps": 0.10822269320487976,
+   "T_steps": 85,
+   "T_sec": 4.25,
+   "observed_worst_steps": 12,
+   "observed_all_reached": true
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+2026-10-11 00:37:23,281 iter=0
+2026-10-11 00:37:28,612 rho is 0.17253458499908447, dataset size=4096
+2026-10-11 00:37:29,047 epoch 0, adv_sample=0, adv_loss=0.0, obs=0, l1=4.981221209800231e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:37:29,048 elapsed time = 5.766813516616821
+2026-10-11 00:37:29,049 iter=1
+2026-10-11 00:37:32,878 rho is 0.1715909242630005, dataset size=8192
+2026-10-11 00:37:33,606 epoch 0, adv_sample=0, adv_loss=0.0, obs=0, l1=4.946776563185514e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:37:33,608 elapsed time = 10.327200174331665
+2026-10-11 00:37:33,609 iter=2
+2026-10-11 00:37:38,208 rho is 0.17443238198757172, dataset size=12288
+2026-10-11 00:37:39,314 epoch 0, adv_sample=0, adv_loss=0.0, obs=0, l1=4.922635655087911e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:37:39,325 elapsed time = 16.043275833129883
+2026-10-11 00:37:39,326 iter=3
+2026-10-11 00:37:44,045 rho is 0.17176410555839539, dataset size=16384
+2026-10-11 00:37:45,355 elapsed time = 22.073758125305176
+2026-10-11 00:37:45,355 iter=4
+2026-10-11 00:37:49,986 rho is 0.171764075756073, dataset size=20480
+2026-10-11 00:37:51,758 elapsed time = 28.47685718536377
+2026-10-11 00:37:51,760 iter=5
+2026-10-11 00:37:56,389 rho is 0.171764075756073, dataset size=24576
+2026-10-11 00:37:58,410 elapsed time = 35.12894678115845
+2026-10-11 00:37:58,410 iter=6
+2026-10-11 00:38:03,127 rho is 0.17176400125026703, dataset size=28672
+2026-10-11 00:38:05,425 elapsed time = 42.14425253868103
+2026-10-11 00:38:05,425 iter=7
+2026-10-11 00:38:09,351 rho is 0.17176400125026703, dataset size=32768
+2026-10-11 00:38:12,065 elapsed time = 48.783573389053345
+2026-10-11 00:38:12,065 iter=8
+2026-10-11 00:38:15,927 rho is 0.17176400125026703, dataset size=36864
+2026-10-11 00:38:19,017 elapsed time = 55.7361843585968
+2026-10-11 00:38:19,017 iter=9
+2026-10-11 00:38:23,402 rho is 0.17176400125026703, dataset size=40960
+2026-10-11 00:38:26,859 elapsed time = 63.57746696472168
+2026-10-11 00:38:26,859 iter=10
+2026-10-11 00:38:34,941 rho is 0.17176400125026703, dataset size=45056
+2026-10-11 00:38:43,240 elapsed time = 79.95918393135071
+2026-10-11 00:38:43,241 iter=11
+2026-10-11 00:38:56,536 rho is 0.17176400125026703, dataset size=49152
+2026-10-11 00:39:07,117 elapsed time = 103.83544373512268
+2026-10-11 00:39:07,118 iter=12
+2026-10-11 00:39:21,540 rho is 0.17176400125026703, dataset size=53248
+2026-10-11 00:39:31,639 elapsed time = 128.3574275970459
+2026-10-11 00:39:31,640 iter=13
+2026-10-11 00:39:43,444 rho is 0.17176400125026703, dataset size=57344
+2026-10-11 00:39:53,011 elapsed time = 149.72946119308472
+2026-10-11 00:39:53,012 iter=14
+2026-10-11 00:40:07,373 rho is 0.17176400125026703, dataset size=61440
+2026-10-11 00:40:17,487 elapsed time = 174.20553159713745
+2026-10-11 00:40:49,978 STAGE {"scale": 1.2, "rho": 0.17176400125026703, "pgd_max_viol": [0.0, 0.0, 0.0], "kappa_check": 0.005, "hamming": [0, 0], "t": 207}
+2026-10-11 00:40:50,019 iter=0
+2026-10-11 00:41:05,547 rho is 0.20031589269638062, dataset size=4096
+2026-10-11 00:41:08,947 epoch 0, adv_sample=565, adv_loss=7.774008750915527, obs=0, l1=5.095991550914715e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:11,809 epoch 1, adv_sample=464, adv_loss=6.679929733276367, obs=0, l1=5.25654387392798e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:14,217 epoch 2, adv_sample=414, adv_loss=6.327469825744629, obs=0, l1=5.4045039494149936e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:16,674 epoch 3, adv_sample=375, adv_loss=5.765517234802246, obs=0, l1=5.6186754407752665e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:19,006 epoch 4, adv_sample=351, adv_loss=5.0934953689575195, obs=0, l1=5.898383684330788e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:21,477 epoch 5, adv_sample=317, adv_loss=4.448910713195801, obs=0, l1=6.156338512732632e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:24,003 epoch 6, adv_sample=298, adv_loss=3.985415458679199, obs=0, l1=6.393928917529233e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:26,224 epoch 7, adv_sample=259, adv_loss=3.264577865600586, obs=0, l1=6.705717090739733e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:28,534 epoch 8, adv_sample=260, adv_loss=3.0540976524353027, obs=0, l1=7.022668305086405e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:30,870 epoch 9, adv_sample=229, adv_loss=2.488642930984497, obs=0, l1=7.191875892715537e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:33,241 epoch 10, adv_sample=203, adv_loss=2.0540456771850586, obs=0, l1=7.406431203720411e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:35,485 epoch 11, adv_sample=233, adv_loss=2.3289175033569336, obs=0, l1=7.574132019004487e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:37,463 epoch 12, adv_sample=147, adv_loss=1.6147085428237915, obs=0, l1=7.72152973372082e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:39,504 epoch 13, adv_sample=123, adv_loss=1.3175503015518188, obs=0, l1=8.014171451683386e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:41,706 epoch 14, adv_sample=142, adv_loss=1.4580893516540527, obs=0, l1=8.162794590630072e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:43,825 epoch 15, adv_sample=103, adv_loss=1.183931589126587, obs=0, l1=8.220636142386151e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:45,788 epoch 16, adv_sample=148, adv_loss=1.0430877208709717, obs=0, l1=8.335848351816436e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:47,913 epoch 17, adv_sample=107, adv_loss=0.8122952580451965, obs=0, l1=8.348318140693884e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:50,159 epoch 18, adv_sample=105, adv_loss=0.6737308502197266, obs=0, l1=8.451124625398523e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:52,402 epoch 19, adv_sample=126, adv_loss=0.6848883628845215, obs=0, l1=8.54361094388569e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:54,563 epoch 20, adv_sample=141, adv_loss=0.6717201471328735, obs=0, l1=8.588661890894159e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:56,913 epoch 21, adv_sample=95, adv_loss=0.7583036422729492, obs=0, l1=8.744054077747535e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:57,639 epoch 22, adv_sample=129, adv_loss=0.6954440474510193, obs=0, l1=8.815362459793095e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:58,313 epoch 23, adv_sample=79, adv_loss=0.6340386867523193, obs=0, l1=8.849527986287494e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:59,081 epoch 24, adv_sample=124, adv_loss=0.7929515242576599, obs=0, l1=8.884515208042016e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:41:59,835 epoch 25, adv_sample=513, adv_loss=1.6135257482528687, obs=0, l1=8.957345140067838e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:00,810 epoch 26, adv_sample=471, adv_loss=1.700913667678833, obs=0, l1=8.973514170036404e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:01,751 epoch 27, adv_sample=331, adv_loss=0.9905663728713989, obs=0, l1=8.957982189553721e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:02,674 epoch 28, adv_sample=327, adv_loss=0.9478143453598022, obs=0, l1=8.872032118979947e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:03,533 epoch 29, adv_sample=561, adv_loss=1.5177116394042969, obs=0, l1=8.815998211564821e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:04,326 epoch 30, adv_sample=90, adv_loss=0.5829519033432007, obs=0, l1=8.78652108447707e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:05,091 epoch 31, adv_sample=145, adv_loss=0.5746876001358032, obs=0, l1=8.84100503605571e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:05,811 epoch 32, adv_sample=314, adv_loss=1.1201955080032349, obs=0, l1=8.841421276888554e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:06,563 epoch 33, adv_sample=99, adv_loss=0.6903585195541382, obs=0, l1=8.85478879476852e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:07,389 epoch 34, adv_sample=132, adv_loss=1.0847721099853516, obs=0, l1=8.849319516283321e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:08,101 epoch 35, adv_sample=138, adv_loss=0.7243115901947021, obs=0, l1=8.866757886444596e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:08,817 epoch 36, adv_sample=273, adv_loss=0.7700859904289246, obs=0, l1=8.870164160190952e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:09,588 epoch 37, adv_sample=297, adv_loss=0.9871317148208618, obs=0, l1=8.867965038418928e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:10,311 epoch 38, adv_sample=120, adv_loss=0.6508899927139282, obs=0, l1=8.816838400209058e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:11,008 epoch 39, adv_sample=91, adv_loss=0.8355591297149658, obs=0, l1=8.850773374921784e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:11,755 epoch 40, adv_sample=164, adv_loss=1.0196075439453125, obs=0, l1=8.879382927932197e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:12,466 epoch 41, adv_sample=158, adv_loss=1.0655632019042969, obs=0, l1=8.905661775856111e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:13,235 epoch 42, adv_sample=103, adv_loss=0.7161960601806641, obs=0, l1=8.94352211531661e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:14,074 epoch 43, adv_sample=485, adv_loss=1.0933239459991455, obs=0, l1=8.923098574404361e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:14,769 epoch 44, adv_sample=384, adv_loss=0.7913905382156372, obs=0, l1=9.001507002201858e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:15,481 epoch 45, adv_sample=175, adv_loss=0.606881856918335, obs=0, l1=8.99762038177081e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:16,220 epoch 46, adv_sample=113, adv_loss=0.694484293460846, obs=0, l1=9.011071389135677e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:16,930 epoch 47, adv_sample=165, adv_loss=0.8614240884780884, obs=0, l1=9.063091070140116e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:17,620 epoch 48, adv_sample=158, adv_loss=0.7595806121826172, obs=0, l1=9.10024549442256e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:18,314 epoch 49, adv_sample=173, adv_loss=0.8014350533485413, obs=0, l1=9.122182572543937e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:18,315 elapsed time = 88.29608106613159
+2026-10-11 00:42:18,315 iter=1
+2026-10-11 00:42:22,670 rho is 0.17967559397220612, dataset size=8192
+2026-10-11 00:42:24,210 epoch 0, adv_sample=482, adv_loss=4.565725326538086, obs=0, l1=9.471438018887934e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:25,666 epoch 1, adv_sample=143, adv_loss=2.4542675018310547, obs=0, l1=9.730586054304321e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:27,082 epoch 2, adv_sample=99, adv_loss=2.060272216796875, obs=0, l1=9.81316410366944e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:28,580 epoch 3, adv_sample=130, adv_loss=1.9014031887054443, obs=0, l1=9.668104822119977e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:29,959 epoch 4, adv_sample=107, adv_loss=1.6096075773239136, obs=0, l1=9.635271580389062e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:31,327 epoch 5, adv_sample=110, adv_loss=1.2666747570037842, obs=0, l1=9.535157102933292e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:32,740 epoch 6, adv_sample=103, adv_loss=1.2813060283660889, obs=0, l1=9.534575556848057e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:34,209 epoch 7, adv_sample=121, adv_loss=1.378373384475708, obs=0, l1=9.632305220394918e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:35,775 epoch 8, adv_sample=151, adv_loss=2.0586538314819336, obs=0, l1=9.734538870007432e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:37,353 epoch 9, adv_sample=100, adv_loss=0.9866575002670288, obs=0, l1=9.729786187979084e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:38,856 epoch 10, adv_sample=112, adv_loss=1.1352379322052002, obs=0, l1=9.720719002848792e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:40,290 epoch 11, adv_sample=125, adv_loss=1.1508798599243164, obs=0, l1=9.791021660635655e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:41,738 epoch 12, adv_sample=145, adv_loss=1.563077449798584, obs=0, l1=9.807221559724117e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:43,340 epoch 13, adv_sample=116, adv_loss=0.945938766002655, obs=0, l1=9.780736211425948e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:44,872 epoch 14, adv_sample=226, adv_loss=1.4009284973144531, obs=0, l1=9.786938723313153e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:46,399 epoch 15, adv_sample=142, adv_loss=0.8806511163711548, obs=0, l1=9.840266833491149e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:47,985 epoch 16, adv_sample=106, adv_loss=1.0186021327972412, obs=0, l1=9.843232602275505e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:49,446 epoch 17, adv_sample=78, adv_loss=0.7139225602149963, obs=0, l1=9.907986297532413e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:50,982 epoch 18, adv_sample=157, adv_loss=1.3521374464035034, obs=0, l1=9.986297477382996e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:52,568 epoch 19, adv_sample=84, adv_loss=1.0170108079910278, obs=0, l1=9.984756692355231e-05, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:54,078 epoch 20, adv_sample=83, adv_loss=0.7650728225708008, obs=0, l1=0.00010039453795284925, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:55,562 epoch 21, adv_sample=78, adv_loss=0.692135751247406, obs=0, l1=0.00010048901166059615, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:57,241 epoch 22, adv_sample=78, adv_loss=0.7565388679504395, obs=0, l1=0.00010090584118700129, candidate_roa_regulizer=0.0, 
+2026-10-11 00:42:58,837 epoch 23, adv_sample=94, adv_loss=0.9502692222595215, obs=0, l1=0.00010200369551754607, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:00,383 epoch 24, adv_sample=69, adv_loss=0.7213975191116333, obs=0, l1=0.0001021136051707386, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:01,892 epoch 25, adv_sample=92, adv_loss=0.8801921606063843, obs=0, l1=0.00010299279783027977, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:03,370 epoch 26, adv_sample=69, adv_loss=0.6999990344047546, obs=0, l1=0.00010310989915926677, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:05,050 epoch 27, adv_sample=55, adv_loss=0.6796212196350098, obs=0, l1=0.00010335300214119769, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:06,686 epoch 28, adv_sample=57, adv_loss=0.6654120683670044, obs=0, l1=0.00010386009233873776, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:08,049 epoch 29, adv_sample=61, adv_loss=0.7353345155715942, obs=0, l1=0.0001045622988136247, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:09,447 epoch 30, adv_sample=76, adv_loss=1.14211106300354, obs=0, l1=0.00010501915831259707, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:11,021 epoch 31, adv_sample=54, adv_loss=0.6823687553405762, obs=0, l1=0.00010507055653899072, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:12,479 epoch 32, adv_sample=55, adv_loss=0.6350587606430054, obs=0, l1=0.0001045749571166721, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:13,900 epoch 33, adv_sample=59, adv_loss=0.6258924007415771, obs=0, l1=0.00010419516562510899, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:15,342 epoch 34, adv_sample=60, adv_loss=0.6961662769317627, obs=0, l1=0.00010430796143725899, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:16,781 epoch 35, adv_sample=90, adv_loss=0.822946310043335, obs=0, l1=0.0001037232151241711, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:18,206 epoch 36, adv_sample=83, adv_loss=1.039128303527832, obs=0, l1=0.00010359389481536111, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:19,672 epoch 37, adv_sample=62, adv_loss=0.7643104791641235, obs=0, l1=0.00010431733826717122, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:21,130 epoch 38, adv_sample=50, adv_loss=0.6809646487236023, obs=0, l1=0.00010483425526151576, candidate_roa_regulizer=0.0, 
+2026-10-11 00:43:22,766 epoch 39, adv_sample=68, adv_loss=0.8423175811767578, obs=0, l1=0.00010461695130385267, candidate_roa_regulizer=0.0, 

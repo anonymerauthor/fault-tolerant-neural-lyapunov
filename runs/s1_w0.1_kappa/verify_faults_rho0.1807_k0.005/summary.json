@@ -1,0 +1,348 @@
+{
+  "rho": 0.1807,
+  "kappa": 0.005,
+  "limit": [
+    12.0,
+    12.0
+  ],
+  "faults": true,
+  "modes": [
+    {
+      "mode": 1,
+      "chunk": 0,
+      "variants": [
+        0,
+        15
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 106.37257453267883,
+      "max_time": 129.34133219718933
+    },
+    {
+      "mode": 1,
+      "chunk": 1,
+      "variants": [
+        15,
+        30
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 103.4767917316428,
+      "max_time": 122.76470708847046
+    },
+    {
+      "mode": 1,
+      "chunk": 2,
+      "variants": [
+        30,
+        45
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 102.09245812487276,
+      "max_time": 124.28217554092407
+    },
+    {
+      "mode": 1,
+      "chunk": 3,
+      "variants": [
+        45,
+        60
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 103.96079549599864,
+      "max_time": 123.47151899337769
+    },
+    {
+      "mode": 1,
+      "chunk": 4,
+      "variants": [
+        60,
+        75
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 99.43391540284807,
+      "max_time": 121.9424901008606
+    },
+    {
+      "mode": 1,
+      "chunk": 5,
+      "variants": [
+        75,
+        90
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 95.85069940866714,
+      "max_time": 115.68492293357849
+    },
+    {
+      "mode": 1,
+      "chunk": 6,
+      "variants": [
+        90,
+        105
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 97.23404733589074,
+      "max_time": 115.9079065322876
+    },
+    {
+      "mode": 1,
+      "chunk": 7,
+      "variants": [
+        105,
+        120
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 98.21397463126979,
+      "max_time": 118.40692567825317
+    },
+    {
+      "mode": 1,
+      "chunk": 8,
+      "variants": [
+        120,
+        135
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 98.50779487393018,
+      "max_time": 118.50272154808044
+    },
+    {
+      "mode": 1,
+      "chunk": 9,
+      "variants": [
+        135,
+        150
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 96.18527082785,
+      "max_time": 114.40680146217346
+    },
+    {
+      "mode": 1,
+      "chunk": 10,
+      "variants": [
+        150,
+        165
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 94.80920800051669,
+      "max_time": 115.081298828125
+    },
+    {
+      "mode": 1,
+      "chunk": 11,
+      "variants": [
+        165,
+        178
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 88.8350270979944,
+      "max_time": 102.88119649887085
+    },
+    {
+      "mode": 2,
+      "chunk": 0,
+      "variants": [
+        0,
+        15
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 98.5057023388974,
+      "max_time": 131.47958517074585
+    },
+    {
+      "mode": 2,
+      "chunk": 1,
+      "variants": [
+        15,
+        30
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 94.02069309272224,
+      "max_time": 116.2792956829071
+    },
+    {
+      "mode": 2,
+      "chunk": 2,
+      "variants": [
+        30,
+        45
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 108.65882590523475,
+      "max_time": 140.1864926815033
+    },
+    {
+      "mode": 2,
+      "chunk": 3,
+      "variants": [
+        45,
+        60
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 125.73212882353614,
+      "max_time": 158.8031017780304
+    },
+    {
+      "mode": 2,
+      "chunk": 4,
+      "variants": [
+        60,
+        75
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 189.52000456779408,
+      "max_time": 304.03892970085144
+    },
+    {
+      "mode": 2,
+      "chunk": 5,
+      "variants": [
+        75,
+        90
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 241.43403896823207,
+      "max_time": 302.4059283733368
+    },
+    {
+      "mode": 2,
+      "chunk": 6,
+      "variants": [
+        90,
+        105
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 202.17117651261432,
+      "max_time": 304.1669771671295
+    },
+    {
+      "mode": 2,
+      "chunk": 7,
+      "variants": [
+        105,
+        120
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 202.05114116435672,
+      "max_time": 232.09754586219788
+    },
+    {
+      "mode": 2,
+      "chunk": 8,
+      "variants": [
+        120,
+        135
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 292.1380116846377,
+      "max_time": 373.1490247249603
+    },
+    {
+      "mode": 2,
+      "chunk": 9,
+      "variants": [
+        135,
+        150
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 281.65716054692564,
+      "max_time": 366.40269231796265
+    },
+    {
+      "mode": 2,
+      "chunk": 10,
+      "variants": [
+        150,
+        165
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 143.19682770310212,
+      "max_time": 213.87394070625305
+    },
+    {
+      "mode": 2,
+      "chunk": 11,
+      "variants": [
+        165,
+        178
+      ],
+      "regions": 4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 83.22262855708371,
+      "max_time": 115.73319053649902
+    }
+  ],
+  "all_verified": true
+}

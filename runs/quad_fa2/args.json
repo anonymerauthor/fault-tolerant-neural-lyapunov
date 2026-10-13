@@ -1,0 +1,18 @@
+{
+  "out": "runs/quad_fa2",
+  "init": "runs/quad_fa/ckpt.pth",
+  "nominal": false,
+  "rho": 0.5,
+  "kappa": 0.01,
+  "max_iter": 20,
+  "epochs": 50,
+  "samples_per_iter": 32768,
+  "buffer_size": 131072,
+  "batch_size": 1024,
+  "pgd_steps": 300,
+  "lr": 0.001,
+  "lr_controller": 0.0001,
+  "l1_reg": 0.001,
+  "train_V": false,
+  "seed": 42
+}

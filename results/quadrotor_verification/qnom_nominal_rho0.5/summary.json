@@ -1,0 +1,20 @@
+{
+  "ckpt": "runs/quad_nominal/ckpt.pth",
+  "rho": 0.5,
+  "kappa": 0.0,
+  "chunks": [
+    {
+      "chunk": 0,
+      "variants": [
+        0,
+        1
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 124.7756624724348,
+      "max_time": 572.17347240448
+    }
+  ]
+}

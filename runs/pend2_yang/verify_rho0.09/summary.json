@@ -1,0 +1,29 @@
+{
+  "rho": 0.09,
+  "limit": [
+    12.0,
+    12.0
+  ],
+  "modes": [
+    {
+      "mode": 0,
+      "mass": 0.15,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 8.22227556304736,
+      "max_time": 9.857076168060303
+    },
+    {
+      "mode": 1,
+      "mass": 0.25,
+      "safe": 2,
+      "falsified": 0,
+      "timeout": 2,
+      "mean_time": 157.79642561305815,
+      "max_time": 300.96205592155457
+    }
+  ],
+  "n_regions": 4,
+  "all_verified": false
+}

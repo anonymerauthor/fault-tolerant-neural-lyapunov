@@ -1,0 +1,13 @@
+{
+ "seed 1, width 8": {"n_faults": 531, "points": [
+   {"label": "nominal", "broken": 100, "area": 26.1},
+   {"label": "w=0", "broken": 0, "area": 15.3},
+   {"label": "w=0.1", "broken": 0, "area": 47.6},
+   {"label": "w=0.3", "broken": 0, "area": 45.7},
+   {"label": "w=1", "broken": 69, "area": 52.8}]},
+ "width 4": {"n_faults": 171, "points": [
+   {"label": "nominal", "broken": 49, "area": 48.0},
+   {"label": "w=0", "broken": 2, "area": 0.4},
+   {"label": "w=0.3", "broken": 35, "area": 71.5},
+   {"label": "w=1", "broken": 12, "area": 71.7}]}
+}

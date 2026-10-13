@@ -1,0 +1,124 @@
+{
+  "ckpt": "runs/quad_fa2/ckpt.pth",
+  "rho": 0.5,
+  "kappa": 0.0,
+  "chunks": [
+    {
+      "chunk": 1,
+      "variants": [
+        1,
+        2
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 122.6595195390158,
+      "max_time": 540.2940456867218
+    },
+    {
+      "chunk": 3,
+      "variants": [
+        3,
+        4
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 141.72968996417413,
+      "max_time": 701.2901997566223
+    },
+    {
+      "chunk": 5,
+      "variants": [
+        5,
+        6
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 182.80394998484084,
+      "max_time": 916.7174561023712
+    },
+    {
+      "chunk": 7,
+      "variants": [
+        7,
+        8
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 116.42888318734757,
+      "max_time": 544.4881436824799
+    },
+    {
+      "chunk": 9,
+      "variants": [
+        9,
+        10
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 134.39083149512567,
+      "max_time": 679.1204483509064
+    },
+    {
+      "chunk": 11,
+      "variants": [
+        11,
+        12
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 185.7276141051303,
+      "max_time": 863.1182599067688
+    },
+    {
+      "chunk": 13,
+      "variants": [
+        13,
+        14
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 98.03396658415433,
+      "max_time": 390.2240970134735
+    },
+    {
+      "chunk": 15,
+      "variants": [
+        15,
+        16
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 102.8425552938499,
+      "max_time": 413.3630928993225
+    },
+    {
+      "chunk": 17,
+      "variants": [
+        17,
+        18
+      ],
+      "regions": 12,
+      "safe": 12,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 112.1683454179486,
+      "max_time": 479.5082426071167
+    }
+  ]
+}

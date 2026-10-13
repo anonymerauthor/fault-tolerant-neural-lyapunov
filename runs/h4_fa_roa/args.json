@@ -1,0 +1,47 @@
+{
+  "out": "runs/h4_fa_roa",
+  "masses": [
+    0.15
+  ],
+  "limit": [
+    12.0,
+    12.0
+  ],
+  "limit_scales": [
+    1.0
+  ],
+  "kappa": 0.005,
+  "rho_multiplier": 1.0,
+  "dt": 0.05,
+  "u_max": 6.0,
+  "max_iter": 30,
+  "epochs": 50,
+  "samples_per_iter": 8192,
+  "buffer_size": 65536,
+  "batch_size": 1024,
+  "pgd_steps": 150,
+  "lr": 0.001,
+  "l1_reg": 0.001,
+  "score_scale": 10.0,
+  "score0": 0.05,
+  "setpoints": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "hidden": 4,
+  "nlayer": 4,
+  "init": "auto",
+  "roa_preserve_rho": 0.1276,
+  "roa_weight": 1.0,
+  "fault_sample_k": 0,
+  "keep_masks": true,
+  "fault_aware": true,
+  "delta_scores": false,
+  "freeze_masks": false,
+  "init_ckpt": "runs/cap_h4_shared/ckpt_scale1.0.pth",
+  "kappa_check": null,
+  "seed": 42,
+  "smoke": false,
+  "V_eps": 0.01
+}

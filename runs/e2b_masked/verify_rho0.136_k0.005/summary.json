@@ -1,0 +1,39 @@
+{
+  "rho": 0.136,
+  "kappa": 0.005,
+  "limit": [
+    12.0,
+    12.0
+  ],
+  "modes": [
+    {
+      "mode": 0,
+      "param": 0.0,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 19.02459866109475,
+      "max_time": 23.7615704536438
+    },
+    {
+      "mode": 1,
+      "param": 0.5,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 18.920313741238353,
+      "max_time": 23.908149480819702
+    },
+    {
+      "mode": 2,
+      "param": 1.0,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 19.878195240978116,
+      "max_time": 23.429927110671997
+    }
+  ],
+  "n_regions": 4,
+  "all_verified": true
+}

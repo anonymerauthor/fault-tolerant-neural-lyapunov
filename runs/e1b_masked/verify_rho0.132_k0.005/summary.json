@@ -1,0 +1,30 @@
+{
+  "rho": 0.132,
+  "kappa": 0.005,
+  "limit": [
+    12.0,
+    12.0
+  ],
+  "modes": [
+    {
+      "mode": 0,
+      "mass": 0.15,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 18.98484389292796,
+      "max_time": 23.806888103485107
+    },
+    {
+      "mode": 1,
+      "mass": 0.4,
+      "safe": 4,
+      "falsified": 0,
+      "timeout": 0,
+      "mean_time": 19.55473260969329,
+      "max_time": 23.687000513076782
+    }
+  ],
+  "n_regions": 4,
+  "all_verified": true
+}

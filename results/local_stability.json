@@ -1,0 +1,26 @@
+[
+ {
+  "model": "pendulum seed0 fault-aware",
+  "controllers": 534,
+  "min_preact": 0.0006589571726111909,
+  "min_sat_margin": 5.380887746810913,
+  "max_spectral_radius": 0.962756910413795,
+  "all_schur": true
+ },
+ {
+  "model": "pendulum seed1 w0.1",
+  "controllers": 534,
+  "min_preact": 0.00024388573749088618,
+  "min_sat_margin": 5.380887746810913,
+  "max_spectral_radius": 0.9820839130827916,
+  "all_schur": true
+ },
+ {
+  "model": "quadrotor fa2 (certified 70)",
+  "controllers": 70,
+  "min_preact": 0.14138749241828918,
+  "min_sat_margin": 2.3838300704956055,
+  "max_spectral_radius": 0.9934764854715936,
+  "all_schur": true
+ }
+]
